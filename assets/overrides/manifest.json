@@ -1,0 +1,4 @@
+{
+  "_readme": "Optional replacement art. Map keys to image files in this folder. Keys: 'furniture:<id>:S' / 'furniture:<id>:W' (front/back), 'wall:<id>', 'floor:<id>:<variant>', 'recipe:<id>:book|plate|pot|stack'. ax/ay = anchor pixel (tile centre for floor items), scale = display scale. Only add assets you are entitled to use.",
+  "entries": {}
+}
